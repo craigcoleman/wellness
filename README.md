@@ -1,5 +1,6 @@
 # wellness
-This is a php mysql (mariaBD) application I wrote for Rebecca Schlegal at Pasco High School.
+This is a php mysql (mariaBD) application I wrote for Rebecca Schlegel at Pasco High School.
+Developed by Craig Coleman(Tri-Tech)-Programmer - Rebecca Schlegel(Pasco High School)
 I would like to license it as Open Source so others could add to and develop it.
 I will publish the database structure in this README.md
 
